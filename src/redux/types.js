@@ -1,0 +1,1 @@
+export const UPDATE_TICKER_DATA = 'UPDATE_TICKER_DATA'
